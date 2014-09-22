@@ -1,0 +1,11 @@
+﻿生成启动时间为 2014/6/11 16:24:41。
+     1>项目“E:\github\qwt-6.1.0\src\qwt.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing qwt_abstract_legend.h...
+         命令语法不正确。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: “cmd.exe”已退出，代码为 255。
+     1>已完成生成项目“E:\github\qwt-6.1.0\src\qwt.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
